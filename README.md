@@ -1,4 +1,4 @@
-<img src="https://user-images.githubusercontent.com/76568808/127238012-45c584cf-1b0d-4cae-968a-87bc90b763bb.png" width="" height="400">
+<img src="https://user-images.githubusercontent.com/76568808/127238012-45c584cf-1b0d-4cae-968a-87bc90b763bb.png" width="" height="200">
 
 ## Hello there! 👋
 - :tea:&nbsp; I'm a native android developer constantly building and learning new features and technologies along the way.&nbsp; 🌊
